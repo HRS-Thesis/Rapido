@@ -85,7 +85,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/myloc"
+<<<<<<< HEAD
             fab:fab_label="Aking Lokasyon"
+=======
+            fab:fab_label="My Location"
+>>>>>>> origin/master
             fab:fab_size="mini" />
     </com.github.clans.fab.FloatingActionMenu>
 
